@@ -22,8 +22,9 @@
 
     <div class="product">
         <img src="{{ asset('Valkyrie.png') }}" alt="Product Image">
+        <!-- Se cambia el precio en la segunda branch -->
         <h2>Valkyrie Product</h2>
-        <p>Price: $75</p>
+        <p>Price: $50</p>
     </div>
 </body>
 </html>
