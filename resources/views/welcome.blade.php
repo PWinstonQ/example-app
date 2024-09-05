@@ -16,7 +16,8 @@
     <div class="product">
         <img src="{{ asset('valhalla.png') }}" alt="Product Image">
         <h2>Valhalla Product</h2>
-        <p>Price: $50</p>
+        <!-- Se cambia el precio -->
+        <p>Price: $110</p>
     </div>
 
     <div class="product">
