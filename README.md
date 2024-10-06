@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://laravel.com/img/logotype.min.svg" width="300" alt="Laravel Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MySQL_logo_and_wordmark.svg/1024px-MySQL_logo_and_wordmark.svg.png](https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="300" alt="MySQL Logo">
+  <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="300" alt="MySQL Logo">
 </p>
 
 Este proyecto muestra cómo integrar y utilizar SQL en una aplicación Laravel, incluyendo consultas directas y el uso de Eloquent ORM para interactuar con bases de datos MySQL.
