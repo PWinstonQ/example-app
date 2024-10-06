@@ -23,3 +23,5 @@ Route::get('/producto/2', function () {
 Route::get('/contacto', [ContactoController::class, 'index']);
 Route::post('/contacto', [ContactoController::class, 'send']);
 Route::get('/contactado', [ContactoController::class, 'contacted'])->name('contactado');
+Route::get('/ver-contactos', [ContactoController::class, 'verContactos']);
+

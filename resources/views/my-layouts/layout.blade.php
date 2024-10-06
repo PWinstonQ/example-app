@@ -13,11 +13,13 @@
             <ul>
                 <li><a href="{{ url('/') }}">Inicio</a></li>
                 <li><a href="#">Categorías</a></li>
-                <li><a href="{{ url('/contacto') }}">Contacto</a></li>  <!-- Redirige al formulario de contacto -->
+                <li><a href="{{ url('/contacto') }}">Contacto</a></li>
+                <li><a href="{{ url('/ver-contactos') }}">Ver Contactos</a></li>  <!-- Nuevo enlace para ver contactos -->
                 <li><a href="#">Misión - Visión</a></li>
             </ul>
         </nav>
     </header>
+
 
 
     <main>

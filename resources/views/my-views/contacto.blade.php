@@ -16,6 +16,16 @@
         <input type="email" id="email" name="email" value="{{ old('email') }}" required>
         <br/>
 
+        <!-- Mensaje -->
+        <label for="mensaje">{{ __('Mensaje') }}:</label>
+        <textarea id="mensaje" name="mensaje" required>{{ old('mensaje') }}</textarea>
+        <br/>
+
+        <!-- Publicidad -->
+        <input type="checkbox" id="publicidad" name="publicidad" @checked(old('publicidad'))>
+        <label for="publicidad">{{ __('Recibir Publicidad') }}</label>
+        <br/>
+
         <!-- Botón de enviar -->
         <input type="submit" value="{{ __('Enviar') }}">
     </form>
