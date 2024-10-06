@@ -1,7 +1,6 @@
 # SQL con Laravel
 
 <p align="center">
-  <img src="https://laravel.com/img/logotype.min.svg" width="300" alt="Laravel Logo">
   <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="300" alt="MySQL Logo">
 </p>
 
