@@ -1,5 +1,9 @@
 # SQL con Laravel
 
+<p align="center">
+  <img src="images/sql-laravel.png" width="300" alt="SQL y Laravel">
+</p>
+
 Este proyecto muestra cómo integrar y utilizar SQL en una aplicación Laravel, incluyendo consultas directas y el uso de Eloquent ORM para interactuar con bases de datos MySQL.
 
 ## Características
