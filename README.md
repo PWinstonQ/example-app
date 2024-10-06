@@ -1,7 +1,8 @@
 # SQL con Laravel
 
 <p align="center">
-  <img src="images/sql-laravel.png" width="300" alt="SQL y Laravel">
+  <img src="https://laravel.com/img/logotype.min.svg" width="300" alt="Laravel Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MySQL_logo_and_wordmark.svg/1024px-MySQL_logo_and_wordmark.svg.png" width="300" alt="MySQL Logo">
 </p>
 
 Este proyecto muestra cómo integrar y utilizar SQL en una aplicación Laravel, incluyendo consultas directas y el uso de Eloquent ORM para interactuar con bases de datos MySQL.
